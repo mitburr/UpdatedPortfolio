@@ -1,8 +1,19 @@
-.container-fluid{
-    padding: 0%;
-    height: 100%;
-}
+
 html, body {
     margin: 0;
     height: 100%;
+}
+#buffer{
+    padding: 100px;
+}
+.jumbotron{
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+    background-color: rgba(240, 255, 255, 0.9)
+}
+body{
+    background-image: url("../images/1530106563933.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
 }
