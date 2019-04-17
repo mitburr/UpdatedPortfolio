@@ -1,0 +1,29 @@
+
+html, body {
+    margin: 0;
+    height: 100%;
+}
+#buffer{
+    padding: 100px;
+}
+.jumbotron{
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+    background-color: azure
+}
+body{
+    background-image: url("../../../Assets/portfolio backgrounds/atticWoodTheme.jpg");
+    background-size: cover;
+}
+.list-overflow-container{
+    margin-top: 80%;
+    margin-left: 20%;
+}
+.btn{
+    font-size: small;
+    color: black;
+}
+.btn:hover{
+    color: black;
+}

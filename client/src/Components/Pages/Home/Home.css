@@ -8,17 +8,20 @@ html, body {
 }
 .jumbotron{
     text-align: center;
+    margin-top: 20%;
     margin-right: 20%;
     margin-left: 20%;
-    margin-top: 25%;
     background-color: azure
 }
 body{
-    background-image: url("../images/1530106563933.jpg");
+    background-image: url("../../../Assets/portfolio backgrounds/1530106563933.jpg");
     background-position: center;
     background-repeat: no-repeat;
 }
 #projectButton{
     background-image:linear-gradient(#95bea7,#092720);
     border-color: #092720
+}
+.list{
+    background-color: azure !important;
 }
