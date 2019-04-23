@@ -8,7 +8,7 @@ html, body {
 }
 .jumbotron{
     text-align: center;
-    margin-top: 20%;
+    margin-top: 10%;
     margin-right: 20%;
     margin-left: 20%;
     background-color: azure
@@ -20,7 +20,8 @@ body{
 }
 #projectButton{
     background-image:linear-gradient(#95bea7,#092720);
-    border-color: #092720
+    border-color: #092720;
+    margin: 5px
 }
 .list{
     background-color: azure !important;

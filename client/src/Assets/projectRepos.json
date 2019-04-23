@@ -1,0 +1,17 @@
+{
+    "Mealler": {
+        "title": "The Mealler Report",
+        "link": "https://github.com/TashaShrader/MealSuggestions",
+        "image": "https://raw.githubusercontent.com/medcoguy/GitTesting/master/images/login.PNG"
+    },
+    "Recipes":{
+        "title": "Quick Recipes",
+        "link": "https://github.com/Lgeoffrion/GroupProject1",
+        "image": "https://raw.githubusercontent.com/Lgeoffrion/GroupProject1/master/assets/images/appFace.png"
+    },
+    "Chores":{
+        "title": "Chores",
+        "link": "https://github.com/mitburr/chores",
+        "image":"https://user-images.githubusercontent.com/46298501/54443544-cc0c8e80-470e-11e9-97f2-ba0a5a9bc2b2.png"
+    }
+}

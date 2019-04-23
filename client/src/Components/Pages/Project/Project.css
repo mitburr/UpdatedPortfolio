@@ -17,13 +17,10 @@ body{
     background-size: cover;
 }
 .list-overflow-container{
-    margin-top: 80%;
+    margin-top: 5%;
     margin-left: 20%;
 }
 .btn{
     font-size: small;
-    color: black;
-}
-.btn:hover{
-    color: black;
+    color:white !important;
 }

@@ -4,7 +4,7 @@ import "./Home.css"
 
 let homeTitle = "Hi, I'm Mitch!"
 let homeLead = "I'm a software developer with strong critical thinking skills and interest in efficient design."
-let homeGate = "please feel free to browse my work"
+let homeGate = "Please feel free to browse my work"
 
 class Books extends React.Component{
 
