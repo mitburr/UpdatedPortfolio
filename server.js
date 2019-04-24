@@ -4,6 +4,7 @@ const express = require("express");
 const path = require("path");
 const routes = require('./routes/api/gitRepo')
 var mongoose = require("mongoose")
+require("dotenv").config()
 //express server opened
 const app = express();
 
